@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.aquino_sherwin_a.simple_app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.aquino_sherwin_a.simple_app"
