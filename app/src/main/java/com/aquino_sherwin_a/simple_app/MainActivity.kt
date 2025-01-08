@@ -84,7 +84,7 @@ class MainActivity : AppCompatActivity() {
             result.toString()
         }
 
-        // Display the result
+        //  result
         resultTextView.text = "Result: $formattedResult"
     }
 }
